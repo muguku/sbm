@@ -1,2 +1,5 @@
 # sbm
-spring boot+mybatis+mysql搭建mvc开发框架
+spring boot
+mybatis
+mysql
+搭建mvc开发框架
